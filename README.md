@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F73B1D&lines=Hi+%F0%9F%91%8B!+I'm+Viktor.)](https://git.io/typing-svg)
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=dreddsa5dies&left_color=red&right_color=green) 
+<!--  API failed -->
+<!-- ![visitors](https://visitor-badge.deta.dev/badge?page_id=dreddsa5dies&left_color=red&right_color=green)  -->
 
 Property | Data
 --- | --- 
