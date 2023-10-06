@@ -13,6 +13,8 @@ Property | Data
 **Tools** | [![Latex Badge](https://img.shields.io/badge/-Latex-2088FF?style=flat&logo=Latex&logoColor=white)](https://github.com/dreddsa5dies/dreddsa5dies) [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/dreddsa5dies/dreddsa5dies) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/dreddsa5dies/dreddsa5dies) [![Gitea Badge](https://img.shields.io/badge/-Gitea%20-2088FF?style=flat&logo=Gitea&logoColor=white)](https://github.com/dreddsa5dies/dreddsa5dies) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/dreddsa5dies/dreddsa5dies) 
 **Other**  | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2088FF?style=flat&logo=Docker&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 
+![Metrics](/github-metrics.svg)
+
 <!--   GitHub stats graph -->
 <!-- ### 📈 GitHub Activity Graph: -->
 <!-- ![Viktor's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dreddsa5dies&hide_border=true&theme=redical) -->
