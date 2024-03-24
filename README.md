@@ -23,4 +23,4 @@ Property | Data
 --- | --- 
 ![Viktor's github stats](https://github-readme-stats.vercel.app/api?username=dreddsa5dies&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dreddsa5dies&theme=radical&layout=compact)
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dreddsa5dies&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dreddsa5dies&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
